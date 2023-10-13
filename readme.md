@@ -1,5 +1,5 @@
-<h1 align="center">Oi , sou o Guilherme Alves</h1>
-<h3 align="center">🖥️ Cursando Sistemas De Informação na Universade Federal De Goiás (UFG)</h3>
+<h1 align="center">Oi, sou o Guilherme Alves</h1>
+<h3 align="center">🖥️ Cursando Sistemas De Informação na Universidade Federal De Goiás (UFG)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghaztt&label=Profile%20views&color=0e75b6&style=flat" alt="ghaztt" /> </p>
 
