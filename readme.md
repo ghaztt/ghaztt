@@ -2,14 +2,14 @@
 
 <div>
   <a href="https://github.com/ghaztt">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kvrolinne&show_icons=&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ghaztt&show_icons=&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaztt&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ### Top repositórios:
 
 <a href="https://github.com/ghaztt/UFG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kvrolinne&repo=ALG-FACESG&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghaztt&repo=ALG-FACESG&theme=dark" />
 </a>
 
 <div style="display: inline_block"><br>          
