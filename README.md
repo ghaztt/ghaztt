@@ -8,7 +8,7 @@
 
 ### Top repositórios:
 
-<a href="https://github.com/ghaztt/UFG">
+<a href="https://github.com/ghaztt/POO-UFG">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghaztt&repo=UFG&theme=midnight-purple"/>
 </a>
 
