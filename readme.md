@@ -9,7 +9,7 @@
 ### Top repositórios:
 
 <a href="https://github.com/ghaztt/UFG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghaztt&repo=ALG-FACESG&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghaztt&repo=UFG&theme=dark" />
 </a>
 
 <div style="display: inline_block"><br>          
